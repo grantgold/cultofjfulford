@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="<?= $site->description() ?>" />
 
-  <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
+  <title><?= $site->title()->html() ?></title>
 
   <link rel="shortcut icon" href="assets/images/icon.ico" type="image/x-icon">
   <link rel="icon" href="assets/images/icon.ico" type="image/x-icon">
