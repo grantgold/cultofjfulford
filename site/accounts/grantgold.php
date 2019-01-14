@@ -7,6 +7,8 @@ email: grantagold@gmail.com
 language: en
 role: admin
 history:
+  - blog/day-4-wales-alaska
+  - blog/day-3-whitehorse-yukon
   - blog/day-2-isla-tiburon
   - error
   - blog

@@ -28,5 +28,6 @@ make Kirby work. For more fine-grained configuration
 of the system, please check out http://getkirby.com/docs/advanced/options
 
 */
-c::set('home', page('home')->children()->last());
+// c::set('home', page('home')->children()->last());
+c::set('home', page('blog')->children()->sortBy('date')->first());
 c::set('debug',true);
