@@ -9,8 +9,8 @@
 
   <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
 
-  <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="assets/images/icon.ico" type="image/x-icon">
+  <link rel="icon" href="assets/images/icon.ico" type="image/x-icon">
 
   <!-- Bulma CSS -->
   <?= css('assets/css/bulma.min.css') ?>
