@@ -10,7 +10,7 @@ Date: 2019-01-13
 
 ----
 
-Text: 
+Text:
 
 “Oh, I love it when it does that. May not be flying anymore but this is pretty darn close” says Murray Lundberg. An old DC-3 airliner spins around on a stand hovering above the ground in front of the airport.
 
@@ -25,7 +25,7 @@ He also keeps up a local news blog, noting his discoveries and daily findings as
 There is a certain kind of presentness that people like Murray have, a fascination with minutiae that represents a passionate love of life. Appreciating every savory morsel using every delicate sensitivity they have. Today I’m paying attention to the direction of the wind. (Attached photo by Murray Lundberg)
 
 Research:
-- (file: Smithsonian-how_the_dc-3_revolutionaized-air-travel.pdf text: [PDF] Smithsonian - How the DC-3 Revolutionized Air Travel)
+- (file: Smithsonian-how_the_dc-3_revolutionized-air-travel.pdf text: [PDF] Smithsonian - How the DC-3 Revolutionized Air Travel)
 - (file: explore-north_dc-3.pdf text: [PDF] ExploreNorth - The DC-3)
 - (file: DC-3 CF-CPY_ The World_s Largest Weather Vane.pdf text: [PDF] ExploreNorth - World's Largest Weather Vane)
 - (file: about-murray-lundberg.pdf text: [PDF] About Murray Lundberg)
