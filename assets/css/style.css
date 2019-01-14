@@ -26,6 +26,10 @@ section {
   margin: 0 auto;
 }
 
+.container {
+  margin: 0;
+}
+
 .hero-body {
   padding: 3rem 0;
 }
