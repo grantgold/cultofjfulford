@@ -39,6 +39,6 @@ if($page->hasNextVisible() || $page->hasPrevVisible()): ?>
         <?= (new Asset("assets/images/arrow-{$directionNext}.svg"))->content() ?>
       </span>
     <?php endif ?>
-
+    
   </nav>
 <?php endif ?>

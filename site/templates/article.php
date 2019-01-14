@@ -2,23 +2,38 @@
 
   <main class="main" role="main">
 
-    <article class="article single wrap">
+      <?php snippet('menu') ?>
+      <?php $articles = page('blog')->children()->visible()->flip()->paginate(1) ?>
 
-      <header class="article-header">
-        <div class="intro text">
-          <?= $page->date('F jS, Y') ?>
-        </div>
-      </header>
+      <section class="wrap">
+        <?php if($articles->count()): ?>
+          <?php foreach($articles as $article): ?>
 
-      <?php snippet('coverimage', $page) ?>
+            <article class="article grid-container">
 
-      <div class="text">
-        <?= $page->text()->kirbytext() ?>
-      </div>
+              <?php snippet('coverimage', $article) ?>
 
-    </article>
+              <header class="article-header">
+                <h2 class="article-title">
+                  <?= $article->title()->html() ?>
+                </h2>
 
-    <?php snippet('prevnext', ['flip' => true]) ?>
+                <p class="article-date"><?= $article->date('F jS, Y') ?></p>
+                <div class="text">
+                  <p>
+                    <?= $article->text()->kirbytext() ?>
+                    <!-- <a href="<?= $article->url() ?>" class="article-more">read more</a> -->
+                  </p>
+                </div>
+              </header>
+
+            </article>
+
+          <?php endforeach ?>
+        <?php else: ?>
+          <p>This blog does not contain any articles yet.</p>
+        <?php endif ?>
+      </section>
 
   </main>
 

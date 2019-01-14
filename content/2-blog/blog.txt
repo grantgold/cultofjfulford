@@ -1,9 +1,9 @@
-Title:
+Title: blog
 
 ----
 
-Text:
+Text: 
 
 ----
 
-Perpage: 0
+Perpage: 8

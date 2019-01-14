@@ -6,3 +6,7 @@ password: >
 email: grantagold@gmail.com
 language: en
 role: admin
+history:
+  - blog/day-2-isla-tiburon
+  - error
+  - blog

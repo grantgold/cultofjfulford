@@ -1,4 +1,4 @@
-  <section>
+  <section class="bottom">
     <div class="container">
 
       <p class="footer-copyright"><?php

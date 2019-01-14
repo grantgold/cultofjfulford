@@ -40,11 +40,7 @@
               </div>
             </header>
 
-
-
           </article>
-
-          <hr />
 
         <?php endforeach ?>
       <?php else: ?>
