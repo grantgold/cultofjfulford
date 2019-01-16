@@ -30,7 +30,6 @@
   <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
 
   <?= css('assets/css/style.css') ?>
-  <?= js('assets/js/script.js') ?>
 
 </head>
 <body>

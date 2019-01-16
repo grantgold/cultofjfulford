@@ -22,7 +22,6 @@
               <div class="text">
                 <p>
                   <?= $article->text()->kirbytext() ?>
-                  <!-- <a href="<?= $article->url() ?>" class="article-more">read more</a> -->
                 </p>
               </div>
             </header>

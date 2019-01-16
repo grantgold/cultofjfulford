@@ -19,6 +19,7 @@
                   <p>
                     <?= $page->text()->kirbytext() ?>
                   </p>
+
                 </div>
               </header>
 

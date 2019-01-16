@@ -17,6 +17,8 @@ switch(event.target.id){
   default:
     break;
 }
-
-
 }, false);
+
+$(document).mousemove(function(event) {
+    $("video").css({top: event.pageY, left: event.pageX});
+});
