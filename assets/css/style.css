@@ -11,6 +11,10 @@ html, html a {
   -webkit-font-smoothing: antialiased !important;
 }
 
+a:hover {
+  color: red;
+}
+
 ul {
   padding-bottom: 15px;
 }

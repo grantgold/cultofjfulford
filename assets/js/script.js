@@ -22,3 +22,5 @@ switch(event.target.id){
 $(document).mousemove(function(event) {
     $("video").css({top: event.pageY, left: event.pageX});
 });
+
+$(document.links) .filter(function() { return this.hostname != window.location.hostname; }) .attr('target', '_blank');
