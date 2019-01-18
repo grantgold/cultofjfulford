@@ -88,7 +88,7 @@ section {
   top: 0;
   left: 0;
   width: 100%;
-  height: auto;
+  height: 100%;
   overflow-x:hidden;
   opacity: .9;
   background-color: red;
@@ -103,6 +103,15 @@ section {
 #navigation.closed {
   opacity: 0;
   pointer-events: none;
+}
+
+#navigation::-webkit-scrollbar {
+  display: none;
+}
+
+.inner-element {
+  position: absolute;
+  width: 100%;
 }
 
 .menu.article-list {
