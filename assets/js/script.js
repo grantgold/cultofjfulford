@@ -1,9 +1,8 @@
-console.log('script.js loaded')
+console.log('script loaded')
 
 document.addEventListener('click',function(event){
 var navigation= document.getElementById('navigation')
 var menuButton= document.getElementById('menuButton')
-console.log(event)
 
 switch(event.target.id){
   case ('menuButton'):
