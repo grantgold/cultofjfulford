@@ -2,7 +2,6 @@
 
 <main class="main" role="main">
 
-    <?php snippet('menu') ?>
     <?php $articles = page('blog')->children()->visible()->flip()->paginate(1) ?>
 
     <section class="wrap">

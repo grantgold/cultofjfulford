@@ -33,9 +33,9 @@
 
 </head>
 <body>
+  <div id="menuButton" class="menuButton" class="column">All Interpretations</div>
   <?php snippet('menu') ?>
   <header class="header" role="banner">
-    <div id="menuButton" class="menuButton" class="column">All Interpretations</div>
     <section class="hero">
       <div class="hero-body">
         <div class="container">
