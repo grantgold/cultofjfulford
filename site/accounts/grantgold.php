@@ -7,8 +7,8 @@ email: grantagold@gmail.com
 language: en
 role: admin
 history:
+  - blog/day-9-broken-hill-australia
   - blog/day-8-kuril-islands-russia
   - blog/day-7-haast-new-zealand
   - blog/day-6-mutalau-niue
   - blog/day-5-hawaii
-  - blog/day-4-wales-alaska
