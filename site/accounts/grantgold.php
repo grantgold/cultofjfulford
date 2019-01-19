@@ -11,4 +11,3 @@ history:
   - blog/day-8-kuril-islands-russia
   - blog/day-7-haast-new-zealand
   - blog/day-6-mutalau-niue
-  - blog/day-5-hawaii
