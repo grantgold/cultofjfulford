@@ -193,6 +193,7 @@ Media Queries
   .menu-item {
     font-size: 2.2rem;
     padding: 1.4rem;
+    line-height: 3rem;
   }
 
 }
