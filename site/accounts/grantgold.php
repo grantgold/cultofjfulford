@@ -7,8 +7,7 @@ email: grantagold@gmail.com
 language: en
 role: admin
 history:
-  - blog/day-10-kagawa-prefecture-japan
+  - blog/day-11-xinyang-china
   - blog/day-9-broken-hill-australia
   - blog/day-8-kuril-islands-russia
   - blog/day-7-haast-new-zealand
-  - blog/day-6-mutalau-niue
