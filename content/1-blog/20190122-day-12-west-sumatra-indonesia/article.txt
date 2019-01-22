@@ -24,3 +24,5 @@ A tomb from the road protected by a skeleton structure of wood, the puffed rice 
 Research: 
 - (file: Haeckel_Singkarak.jpg text: [IMAGE] Illustration of Lake Singkarak by Ernst Haeckel in 1901)
 - (file: Lake_Singkarak.jpg text: [PHOTO] Lake Singkarak and the Ombilin River taken by Christiaan Benjamin Nieuwenhuis between 1892 and 1905)
+- (file: scarecrows.png text: [PHOTO] Scarecrows on farm near Aripan road)
+- (file: road-tomb.png text: [PHOTO] View of tomb from road)
