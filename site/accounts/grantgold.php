@@ -7,8 +7,8 @@ email: grantagold@gmail.com
 language: en
 role: admin
 history:
+  - blog/day-17-vilnius-lithuania
   - blog/day-16-pskov-russia
   - blog/day-15-tehran-iran
   - blog/day-14-samarkand-uzbekistan
   - blog/day-13-vadakkambilly-kerala-india
-  - blog/day-12-west-sumatra-indonesia
