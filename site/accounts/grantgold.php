@@ -7,8 +7,8 @@ email: grantagold@gmail.com
 language: en
 role: admin
 history:
+  - blog/day-21-south-sandwich-islands-uk
   - blog/day-20-corvo-azores
   - blog/day-18-warsaw-poland
   - blog/day-19-accra-ghana
   - blog/day-17-vilnius-lithuania
-  - blog/day-16-pskov-russia
