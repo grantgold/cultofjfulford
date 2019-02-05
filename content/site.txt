@@ -6,7 +6,7 @@ Author:
 
 ----
 
-Description: Interpreting the teachings of my leader, JFulford.
+Description: A catalog of projects interpreting prompts from Jason Fulford. In the first project I took a trip around the world in 24 days, going West by timezone, allowing my interest to guide me. Click the 'All Interpretations' menu for more. 
 
 ----
 

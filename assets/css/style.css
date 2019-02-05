@@ -32,6 +32,7 @@ section {
 
 .container {
   margin: 0;
+  max-width: 960px;
 }
 
 .hero-body {
