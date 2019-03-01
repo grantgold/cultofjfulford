@@ -62,7 +62,7 @@ section {
 
 #menuButton {
   position: fixed;
-  left: -3rem;
+  left: -1rem;
   bottom: 8rem;
   /* Safari */
   -webkit-transform: rotate(-90deg);

@@ -33,7 +33,7 @@
 
 </head>
 <body>
-  <div id="menuButton" class="menuButton" class="column">All Interpretations</div>
+  <div id="menuButton" class="menuButton" class="column">View All Entries</div>
   <?php snippet('menu') ?>
   <header class="header" role="banner">
     <section class="hero">
