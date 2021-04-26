@@ -39,7 +39,7 @@
     <section class="hero">
       <div class="hero-body">
         <div class="container">
-          <ul><a href="http://cultofjfulford.grantagold.com"><img class="logo" src="assets/images/logo.svg"/></a></ul>
+          <ul><a href="http://cultofjfulford.grantagold.com"><img class="logo" src="http://cultofjfulford.grantagold.com/assets/images/logo.svg"/></a></ul>
           <ul><?= $site->description() ?></ul>
         </div>
       </div>
